@@ -1,4 +1,4 @@
 int fork = 4;
-if (fork != 3){
+while (fork!=3){
 print("Crickets");
 }
